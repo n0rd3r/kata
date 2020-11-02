@@ -1,3 +1,7 @@
 # kata
 
-Number To Words
+Table of Contents
+
+- Number To Words
+
+
